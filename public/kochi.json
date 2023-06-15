@@ -1,0 +1,184 @@
+{
+  "kochi": [
+    {
+      "id": 1,
+      "name": "Hill Palace Museum",
+      "location": " KERALA, INDIA",
+      "image": "https://i.postimg.cc/CLHN1rY1/hill-palace-museum-thripunithura.jpg",
+      "address": "Hill Palace Rd, Irumpanam, Thrippunithura, Ernakulam, Kerala 682301",
+      "package": "8,500",
+
+      "near_by_places": {
+        "1": "Kerala Folklore Museum",
+        "2": "Chottanikkara Temple.",
+        "3": "Jew Town.",
+        "4": "Paradesi Synagogue.",
+        "5": "Kashi Art Gallery."
+      },
+      "reviews": [
+        {
+          "name": "Jays Sands",
+          "date": "October 26, 2020",
+          "rating": "4/5",
+          "comments": "Well worth the visit. The ticket counter is near the entrance. You can either choose to walk all the way up there or you can also drive up there too. They let us drive up there since we had our grandparents who could not walk up the hill. The palace itself is very well maintained. The interior and the tiles on the floor are fantastic. The gardens are good too. You can easily spend an hour there for sure. I would highly recommend it."
+        },
+        {
+          "name": "jeff joseph",
+          "date": "October 26, 2023",
+          "rating": " 4.5/5",
+          "comments": "A royal home to commemorate the antiquity, history and diversities of different rituals.A combination of different generations... historic avenues.... Awesome beautiful structures. Magnificent and regal ancient buildings...well maintained gardens and plants...awesome sights too many to see in a day. This palace, which is the breath of life of this royal city, is a must see at least once"
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "name": "Kerala Folklore Museum",
+      "location": " KERALA, INDIA",
+      "image": "https://i.postimg.cc/nLsBv38q/kerala-folklore-museum.jpg",
+      "address": "Pandit Karuppan Rd, near Thevara Ferry Road, Junction, Kochi, Kerala",
+      "package": "1,590",
+      "near_by_places": {
+        "1": "Hill Palace Museum",
+        "2": "Chottanikkara Temple.",
+        "3": "Jew Town.",
+        "4": "Paradesi Synagogue.",
+        "5": "Kashi Art Gallery."
+      },
+      "reviews": [
+        {
+          "name": "Moulisree Bose",
+          "date": "October 26, 2020",
+          "rating": "4/5",
+          "comments": "It's a treasure trove of antiques. About 25000 items are stored in a not-so-random manner within the limited space. If you're looking for glimpses of Kerala's heritage in real life, don't miss this museum."
+        },
+        {
+          "name": "Nithin Poulose",
+          "date": "October 26, 2020",
+          "rating": "4/5",
+          "comments": "Kerala Folklore Museum is a dream project of George Thaliath and his wife Annie George. It is a Museum of traditional local architecture as well as crafts, folk art & antiques, with a cafe & shop. Kerala Folklore Museum is next to the Ferry Junction in Thevara. It is open from 09:30 am to 06:00 pm."
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "name": "Mattancherry Palace",
+      "location": "KERALA, INDIA",
+      "image": "https://i.postimg.cc/rszkmRRy/Mattancherry-Palace.jpg",
+      "address": "Mattancherry, Kochi, Kerala",
+      "package": "1,780",
+      "near_by_places": {
+        "1": "Kerala Folklore Museum",
+        "2": "Chottanikkara Temple.",
+        "3": "Jew Town.",
+        "4": "Paradesi Synagogue.",
+        "5": "Kashi Art Gallery."
+      },
+      "reviews": [
+        {
+          "name": "Jays Sands",
+          "date": "October 26, 2020",
+          "rating": "4/5",
+          "comments": "Well worth the visit. The ticket counter is near the entrance. You can either choose to walk all the way up there or you can also drive up there too. They let us drive up there since we had our grandparents who could not walk up the hill. The palace itself is very well maintained. The interior and the tiles on the floor are fantastic. The gardens are good too. You can easily spend an hour there for sure. I would highly recommend it."
+        },
+        {
+          "name": "jeff joseph",
+          "date": "October 26, 2023",
+          "rating": " 4.5/5",
+          "comments": "A royal home to commemorate the antiquity, history and diversities of different rituals.A combination of different generations... historic avenues.... Awesome beautiful structures. Magnificent and regal ancient buildings...well maintained gardens and plants...awesome sights too many to see in a day. This palace, which is the breath of life of this royal city, is a must see at least once"
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "name": "Museum Of Kerala History",
+      "location": " KERALA, INDIA",
+      "image": "https://i.postimg.cc/hGKNvQHF/Museum-Of-Kerala-History.jpg",
+      "address": "Kochi-Salem Hwy, Near Hotel Seagate, Koonamthai, Edappally, Ernakulam, Kerala",
+      "package": "2,300",
+      "near_by_places": {
+        "1": "Kerala Folklore Museum",
+        "2": "Chottanikkara Temple.",
+        "3": "Jew Town.",
+        "4": "Paradesi Synagogue.",
+        "5": "Kashi Art Gallery."
+      },
+      "reviews": [
+        {
+          "name": "Jays Sands",
+          "date": "October 26, 2020",
+          "rating": "4/5",
+          "comments": "Well worth the visit. The ticket counter is near the entrance. You can either choose to walk all the way up there or you can also drive up there too. They let us drive up there since we had our grandparents who could not walk up the hill. The palace itself is very well maintained. The interior and the tiles on the floor are fantastic. The gardens are good too. You can easily spend an hour there for sure. I would highly recommend it."
+        },
+        {
+          "name": "jeff joseph",
+          "date": "October 26, 2023",
+          "rating": " 4.5/5",
+          "comments": "A royal home to commemorate the antiquity, history and diversities of different rituals.A combination of different generations... historic avenues.... Awesome beautiful structures. Magnificent and regal ancient buildings...well maintained gardens and plants...awesome sights too many to see in a day. This palace, which is the breath of life of this royal city, is a must see at least once"
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "name": "Santa Cruz Cathedral Basilica Fort Kochi",
+      "location": " KERALA, INDIA",
+      "image": "https://i.postimg.cc/KcLX9b7H/Santa-Cruz-Cathedral-Basilica-Fort-Kochi.jpg",
+      "address": " Bastian St, Fort Nagar, Fort Kochi, Kochi, Kerala",
+      "package": "1,200",
+      "near_by_places": {
+        "1": "Kerala Folklore Museum",
+        "2": "Chottanikkara Temple.",
+        "3": "Jew Town.",
+        "4": "Paradesi Synagogue.",
+        "5": "Kashi Art Gallery."
+      },
+      "reviews": [
+        {
+          "name": "Jays Sands",
+          "date": "October 26, 2020",
+          "rating": "4/5",
+          "comments": "Well worth the visit. The ticket counter is near the entrance. You can either choose to walk all the way up there or you can also drive up there too. They let us drive up there since we had our grandparents who could not walk up the hill. The palace itself is very well maintained. The interior and the tiles on the floor are fantastic. The gardens are good too. You can easily spend an hour there for sure. I would highly recommend it."
+        },
+        {
+          "name": "jeff joseph",
+          "date": "October 26, 2023",
+          "rating": " 4.5/5",
+          "comments": "A royal home to commemorate the antiquity, history and diversities of different rituals.A combination of different generations... historic avenues.... Awesome beautiful structures. Magnificent and regal ancient buildings...well maintained gardens and plants...awesome sights too many to see in a day. This palace, which is the breath of life of this royal city, is a must see at least once"
+        }
+      ]
+    },
+
+    {
+      "id": 6,
+      "name": "St.Francis CSI Church",
+      "location": " KERALA, INDIA",
+      "image": "https://i.postimg.cc/902L86V6/st-francis-church-kochi.jpg",
+      "address": "Head Post Office, Saint Francis Church Road Opp, Fort Kochi, Kochi, Kerala",
+      "package": "1,670",
+      "near_by_places": {
+        "1": "Kerala Folklore Museum",
+        "2": "Chottanikkara Temple.",
+        "3": "Jew Town.",
+        "4": "Paradesi Synagogue.",
+        "5": "Kashi Art Gallery."
+      },
+      "reviews": [
+        {
+          "name": "Jays Sands",
+          "date": "October 26, 2020",
+          "rating": "4/5",
+          "comments": "Well worth the visit. The ticket counter is near the entrance. You can either choose to walk all the way up there or you can also drive up there too. They let us drive up there since we had our grandparents who could not walk up the hill. The palace itself is very well maintained. The interior and the tiles on the floor are fantastic. The gardens are good too. You can easily spend an hour there for sure. I would highly recommend it."
+        },
+        {
+          "name": "jeff joseph",
+          "date": "October 26, 2023",
+          "rating": " 4.5/5",
+          "comments": "A royal home to commemorate the antiquity, history and diversities of different rituals.A combination of different generations... historic avenues.... Awesome beautiful structures. Magnificent and regal ancient buildings...well maintained gardens and plants...awesome sights too many to see in a day. This palace, which is the breath of life of this royal city, is a must see at least once"
+        }
+      ]
+    }
+  ]
+}
